@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on League-of-Electron
+- 🔭 I’m currently working on "League-of-Electron" - League of Leagends fanmade client
 - 🌱 I’m currently learning Nodejs, .NET5
 - 👯 I’m looking to collaborate on Unity2D/3D, Node projects
 - 🤔 I’m looking for help with frontend design
