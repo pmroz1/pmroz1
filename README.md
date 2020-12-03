@@ -1,3 +1,4 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/ReformedMrozu?color=%231DA1F2&logo=twitter&style=for-the-badge)
 ### Hello there! 👋
 
 - 🔭 I’m currently working on "League-of-Electron" - League of Leagends fanmade client
@@ -59,3 +60,7 @@
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ReformedMrozu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<br />
+<br />
+<!--START_SECTION:activity-->
+
