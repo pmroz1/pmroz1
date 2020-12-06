@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reformedmrozu&label=Profile%20views&color=0e75b6&style=flat" alt="reformedmrozu" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=ReformedMrozu&row=1" alt="reformedmrozu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/reformedmrozu" target="blank"><img src="https://img.shields.io/twitter/follow/reformedmrozu?logo=twitter&style=for-the-badge" alt="reformedmrozu" /></a> </p>
 
 - 🔭 I’m currently working on ["League-of-Electron" - League of Leagends fanmade client](https://github.com/ReformedMrozu/League-of-Electron)
