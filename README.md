@@ -51,13 +51,18 @@
 
 ## 🔧 Featured Projects
 
-| Project                                 | Tech Stack                                               | Link                                                 |
-|-----------------------------------------|----------------------------------------------------------|------------------------------------------------------|
-| **latex-cv**                            | LaTeX résumé template                                     | [Repo](https://github.com/pmroz1/latex-cv)           |
-| **Angular-Electron-Boilerplate**        | Angular 17+, Electron, SQLite, TypeScript                 | [Repo](https://github.com/pmroz1/Angular-Electron-Boilerplate) |
-| **NightTimerReign**                     | .NET 8 MAUI phase timer app for Elden Ring: Nightreign           | [Repo](https://github.com/pmroz1/NightTimerReign)    |
-| **RabbitMQ Clean Architecture Demo** *(coming soon)* | .NET 8, Clean Architecture, CQRS/MediatR, RabbitMQ    | —                                                    |
-| **League-of-Electron** *(archived/toy)* | Electron, Angular, RabbitMQ, .NET 8                       | [Repo](https://github.com/pmroz1/League-of-Electron) |
+| Project | Tech Stack | Link |
+|---|---|---|
+| **Object Converter** | Angular (standalone), TypeScript | [Repo](https://github.com/pmroz1/object-converter) · [Live](https://pmroz1.github.io/object-converter/) |
+| **DnD 5e Character Creator** | Angular (CLI 19.x), TypeScript, Tailwind CSS | [Repo](https://github.com/pmroz1/DnD5eCharacterCreator) · [Live](https://pmroz1.github.io/DnD5eCharacterCreator/) |
+| **SystemMetricsApi** | ASP.NET Core 8, Swagger, API-key auth | [Repo](https://github.com/pmroz1/SystemMetricsApi) |
+| **latex-cv** | LaTeX résumé template | [Repo](https://github.com/pmroz1/latex-cv) |
+| **Angular-Electron-Boilerplate** | Angular 17+, Electron, SQLite, TypeScript | [Repo](https://github.com/pmroz1/Angular-Electron-Boilerplate) |
+| **NightTimerReign** | .NET 8 MAUI phase timer app for *Elden Ring: Nightreign* | [Repo](https://github.com/pmroz1/NightTimerReign) |
+| **RabbitMQ Clean Architecture Demo** *(coming soon)* | .NET 8, Clean Architecture, CQRS/MediatR, RabbitMQ | — |
+| **League-of-Electron** *(archived/toy)* | Electron, Angular, RabbitMQ, .NET 8 | [Repo](https://github.com/pmroz1/League-of-Electron) |
+
+> **Tip:** Click the “Live” links for hosted demos where available.
 
 ---
 
