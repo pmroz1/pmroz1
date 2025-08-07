@@ -1,9 +1,8 @@
-<!-- Header image (hosted in your repo) -->
+
 <p align="center">
   <img src="./header_.png" alt="Hi there, I'm Piotr!" width="100%" />
 </p>
 
-<!-- Animated intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -51,16 +50,17 @@
 
 ## 🔧 Featured Projects
 
-| Project | Tech Stack | Link |
-|---|---|---|
-| **Object Converter** | Angular (standalone), TypeScript | [Repo](https://github.com/pmroz1/object-converter) · [Live](https://pmroz1.github.io/object-converter/) |
-| **DnD 5e Character Creator** | Angular (CLI 19.x), TypeScript, Tailwind CSS | [Repo](https://github.com/pmroz1/DnD5eCharacterCreator) · [Live](https://pmroz1.github.io/DnD5eCharacterCreator/) |
-| **SystemMetricsApi** | ASP.NET Core 8, Swagger, API-key auth | [Repo](https://github.com/pmroz1/SystemMetricsApi) |
-| **latex-cv** | LaTeX résumé template | [Repo](https://github.com/pmroz1/latex-cv) |
-| **Angular-Electron-Boilerplate** | Angular 17+, Electron, SQLite, TypeScript | [Repo](https://github.com/pmroz1/Angular-Electron-Boilerplate) |
-| **NightTimerReign** | .NET 8 MAUI phase timer app for *Elden Ring: Nightreign* | [Repo](https://github.com/pmroz1/NightTimerReign) |
-| **RabbitMQ Clean Architecture Demo** *(coming soon)* | .NET 8, Clean Architecture, CQRS/MediatR, RabbitMQ | — |
-| **League-of-Electron** *(archived/toy)* | Electron, Angular, RabbitMQ, .NET 8 | [Repo](https://github.com/pmroz1/League-of-Electron) |
+| Project                                              | Tech Stack                                               | Link                                                                                                              |
+| ---------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **JWT Decode**                                       | Angular 17+, Standalone Components, Signals              | [Repo](https://github.com/pmroz1/jwt-decode) · [Live](https://pmroz1.github.io/jwt-decode/)                       |
+| **Object Converter**                                 | Angular (standalone), TypeScript                         | [Repo](https://github.com/pmroz1/object-converter) · [Live](https://pmroz1.github.io/object-converter/)           |
+| **DnD 5e Character Creator**                         | Angular (CLI 19.x), TypeScript, Tailwind CSS             | [Repo](https://github.com/pmroz1/DnD5eCharacterCreator) · [Live](https://pmroz1.github.io/DnD5eCharacterCreator/) |
+| **SystemMetricsApi**                                 | ASP.NET Core 8, Swagger, API-key auth                    | [Repo](https://github.com/pmroz1/SystemMetricsApi)                                                                |
+| **latex-cv**                                         | LaTeX résumé template                                    | [Repo](https://github.com/pmroz1/latex-cv)                                                                        |
+| **Angular-Electron-Boilerplate**                     | Angular 17+, Electron, SQLite, TypeScript                | [Repo](https://github.com/pmroz1/Angular-Electron-Boilerplate)                                                    |
+| **NightTimerReign**                                  | .NET 8 MAUI phase timer app for *Elden Ring: Nightreign* | [Repo](https://github.com/pmroz1/NightTimerReign)                                                                 |
+| **RabbitMQ Clean Architecture Demo** *(coming soon)* | .NET 8, Clean Architecture, CQRS/MediatR, RabbitMQ       | —                                                                                                                 |
+| **League-of-Electron** *(archived/toy)*              | Electron, Angular, RabbitMQ, .NET 8                      | [Repo](https://github.com/pmroz1/League-of-Electron)                                                              |
 
 > **Tip:** Click the “Live” links for hosted demos where available.
 
@@ -68,9 +68,9 @@
 
 ## 🌱 Learning & Interests
 
-- Working on **AZ-204** Certification  
-- Deepening **Azure & AWS** service knowledge  
-- Looking to contribute!
+* Working on **AZ-204** Certification
+* Deepening **Azure & AWS** service knowledge
+* Looking to contribute!
 
 ---
 
