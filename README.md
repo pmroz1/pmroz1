@@ -12,7 +12,23 @@
   </a>
 </p>
 
-<h3 align="center">👨‍💻 About Me</h3>
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-skills--technologies">Skills</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-ecosystem">Stats</a> •
+  <a href="#-connect-with-me">Contact</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pmroz1&label=Profile+views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/pmroz1?style=for-the-badge&logo=github&color=36BCF7" alt="Followers"/>
+</p>
+
+## 👨‍💻 About Me
+<p align="center">
+  <i>"AI is a force multiplier, not a replacement."</i>
+</p>
 <p align="center">
   I am a developer who bridges the gap between <b>traditional engineering</b> and <b>AI-augmented development</b>. I specialize in leveraging LLMs like Gemini, Claude, and Llama to accelerate development cycles and solve complex architectural problems.
 </p>
@@ -66,8 +82,13 @@
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmroz1&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmroz1&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pmroz1&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmroz1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmroz1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmroz1&theme=tokyonight" alt="Profile details" width="48%"/>
 </p>
 
 <p align="center">
@@ -93,6 +114,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt=""/>
+</p>
 
 <p align="center">
   <sub>📖 Crafted with 💙 by Piotr Mróz | © 2026</sub>
